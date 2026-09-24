@@ -1,5 +1,5 @@
 # Secret number between 1 and 20 guess game
-secret_number = 12
+secret_number = 20
 
 # Create a counter variable for attempts
 attempts = 0
