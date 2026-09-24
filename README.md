@@ -1,2 +1,2 @@
-# plp-python-week5
-I use loop and coditional statement to come up with these projects
+# Different between while and for loop
+Use a while loop when you are not sure about the iteration and if the iteration baed on condition and use for loop when you are iterating through a specify repetition
